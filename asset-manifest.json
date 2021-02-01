@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/modalReact/static/css/main.433dd5ad.chunk.css",
+    "main.css": "/modalReact/static/css/main.6d23682f.chunk.css",
     "main.js": "/modalReact/static/js/main.ae7d1a5c.chunk.js",
     "main.js.map": "/modalReact/static/js/main.ae7d1a5c.chunk.js.map",
     "runtime-main.js": "/modalReact/static/js/runtime-main.346fc698.js",
@@ -12,14 +12,14 @@
     "static/js/3.4d8109bd.chunk.js.map": "/modalReact/static/js/3.4d8109bd.chunk.js.map",
     "index.html": "/modalReact/index.html",
     "static/css/2.150d169a.chunk.css.map": "/modalReact/static/css/2.150d169a.chunk.css.map",
-    "static/css/main.433dd5ad.chunk.css.map": "/modalReact/static/css/main.433dd5ad.chunk.css.map",
+    "static/css/main.6d23682f.chunk.css.map": "/modalReact/static/css/main.6d23682f.chunk.css.map",
     "static/js/2.83ebab3f.chunk.js.LICENSE.txt": "/modalReact/static/js/2.83ebab3f.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.346fc698.js",
     "static/css/2.150d169a.chunk.css",
     "static/js/2.83ebab3f.chunk.js",
-    "static/css/main.433dd5ad.chunk.css",
+    "static/css/main.6d23682f.chunk.css",
     "static/js/main.ae7d1a5c.chunk.js"
   ]
 }
