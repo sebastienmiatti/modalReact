@@ -1,10 +1,11 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import './index.css';
-import App from './App';
+
+// import App from './Appintro'; // importe le fichier Appintro.js
+import App from './App'; // importe le fichier app.js
 import reportWebVitals from './reportWebVitals';
 
-ReactDOM.render(
+ReactDOM.render( // fait un rendu du fichier app.js
   <React.StrictMode>
     <App />
   </React.StrictMode>,
@@ -15,3 +16,4 @@ ReactDOM.render(
 // to log results (for example: reportWebVitals(console.log))
 // or send to an analytics endpoint. Learn more: https://bit.ly/CRA-vitals
 reportWebVitals();
+ 
